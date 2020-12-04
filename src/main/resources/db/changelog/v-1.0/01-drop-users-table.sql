@@ -3,4 +3,4 @@ alter table users
 GO
 
 drop table users
-GO
+GOyoi
